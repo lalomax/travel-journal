@@ -13,7 +13,7 @@ function App() {
   })
 
   return (
-    <div className="App w-3/4 mx-auto text-white">
+    <div className="App w-11/12 md:w-3/4 mx-auto text-white">
       <Navbar />
       <section className="divide-y ">
         {cards}

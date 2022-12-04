@@ -26,7 +26,7 @@ export default function Card(props) {
             />
           </svg>
           <span className="uppercase"> {props.item.location}</span>
-          <a className="text-gray-500 underline ml-2" href="https://goo.gl/maps/1DGM5WrWnATgkSNB8">View on Google Maps</a>
+          <a className="text-gray-500 underline ml-2" href={props.item.googleMapsUrl}>View on Google Maps</a>
         </p>
         <h2 className="text-2xl font-bold mb-2 text-center md:text-left">{props.item.title}</h2>
         <p> <strong> {props.item.startDate} - {props.item.endDate}</strong></p>
