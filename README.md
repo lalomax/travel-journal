@@ -156,7 +156,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
 
-Project Link: [https://github.com/lalomax/switchmodes](https://github.com/lalomax/switchmodes)
+Project Link: [https://github.com/lalomax/travel-journal](https://github.com/lalomax/switchmodes)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
