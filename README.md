@@ -67,6 +67,8 @@
 
 ![image](https://github.com/user-attachments/assets/9855174f-4414-4775-b335-b0e1034e2ead)
 
+Proposed by [scrimba](https://v2.scrimba.com/home)
+
 Travel journal, containing records of visits to various destinations. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -96,11 +98,11 @@ If it is not installed, [download](https://nodejs.org/en) and install it.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/lalomax/switchmodes.git
+   git clone https://github.com/lalomax/travel-journal.git
    ```
 1. Open directory
    ```sh
-   cd switchmodes
+   cd travel-journal
    ```
    
 3. Install NPM packages
@@ -156,7 +158,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
 
-Project Link: [https://github.com/lalomax/travel-journal](https://github.com/lalomax/switchmodes)
+Project Link: [https://github.com/lalomax/travel-journal](https://github.com/lalomax/travel-journal)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
