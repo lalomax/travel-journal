@@ -65,7 +65,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/user-attachments/assets/9855174f-4414-4775-b335-b0e1034e2ead)
+![image](https://github.com/user-attachments/assets/c1e6e9c8-8e0b-410c-ba96-fbe8df5fcf18)
+
 
 Proposed by [scrimba](https://v2.scrimba.com/home)
 
