@@ -1,5 +1,5 @@
 export default function Card(props) {
-  console.log(props)
+  console.log(props);
   return (
     <div className="card my-2 flex flex-col md:flex-row text-black py-2">
       <img
@@ -26,13 +26,24 @@ export default function Card(props) {
             />
           </svg>
           <span className="uppercase"> {props.item.location}</span>
-          <a className="text-gray-500 underline ml-2" href={props.item.googleMapsUrl}>View on Google Maps</a>
+          <a
+            className="text-gray-500 underline ml-2"
+            href={props.item.googleMapsUrl}
+          >
+            View {props.item.title} on Google Maps
+          </a>
         </p>
-        <h2 className="text-2xl font-bold mb-2 text-center md:text-left">{props.item.title}</h2>
-        <p> <strong> {props.item.startDate} - {props.item.endDate}</strong></p>
+        <h2 className="text-2xl font-bold mb-2 text-center md:text-left">
+          {props.item.title}
+        </h2>
         <p>
-          {props.item.description}
+          {' '}
+          <strong>
+            {' '}
+            {props.item.startDate} - {props.item.endDate}
+          </strong>
         </p>
+        <p>{props.item.description}</p>
       </div>
     </div>
   );
