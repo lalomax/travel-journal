@@ -9,7 +9,7 @@ export default function Card(props) {
       />
 
       <div className="card--content flex flex-col justify-center ">
-        <p className="text-center md:text-left">
+        <h4 className="text-center md:text-left">
           <svg
             className="inline mr-1"
             width="7"
@@ -32,17 +32,17 @@ export default function Card(props) {
           >
             View {props.item.title} on Google Maps
           </a>
-        </p>
-        <h2 className="text-2xl font-bold mb-2 text-center md:text-left">
+        </h4>
+        <h1 className="text-2xl font-bold mb-2 text-center md:text-left">
           {props.item.title}
-        </h2>
-        <p>
+        </h1>
+        <h2>
           {' '}
           <strong>
             {' '}
             {props.item.startDate} - {props.item.endDate}
           </strong>
-        </p>
+        </h2>
         <p>{props.item.description}</p>
       </div>
     </div>
