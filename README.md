@@ -65,7 +65,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![image](https://github.com/user-attachments/assets/c1e6e9c8-8e0b-410c-ba96-fbe8df5fcf18)
+![image](https://github.com/user-attachments/assets/0521b93c-ab7e-4472-83e8-433a3f25ae28)
 
 
 Proposed by [scrimba](https://v2.scrimba.com/home)
@@ -157,7 +157,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - createc.bo@gmail.com
+Your Name - [https://x.com/OrlandoFloresH](https://x.com/OrlandoFloresH) - lalomax365@gmail.com
 
 Project Link: [https://github.com/lalomax/travel-journal](https://github.com/lalomax/travel-journal)
 
